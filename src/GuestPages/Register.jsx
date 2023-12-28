@@ -60,7 +60,7 @@ const Register = () => {
                 <center>
                     <img src="/todo-pngImage.png" className='w-100' alt="" />
                 </center>
-                <div className="row">
+                <div className="row w-100">
                     <div className="col-md-12">
                         <div className='mb-3'>
                             <input 
